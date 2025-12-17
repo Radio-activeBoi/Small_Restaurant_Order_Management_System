@@ -1,3 +1,4 @@
+// controllers/menuController.js
 import Menu from '../models/Menu.js';
 
 export const getMenu = async (req, res) => {
