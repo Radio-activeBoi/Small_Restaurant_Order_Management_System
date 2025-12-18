@@ -1,4 +1,6 @@
-Small Restaurant Order Management System
+*Small Restaurant Order Management Systemgi
+
+
 Overview
 This project is a Small Restaurant Order Management System built using Node.js, Express.js, and MongoDB. It allows managing menus and orders, with a backend RESTful API following the MVC architecture.
 ________________________________________
@@ -22,7 +24,7 @@ ________________________________________
 Project Structure
 ├── models/
 │   ├── Menu.js          # Mongoose schema for menu items
-│   └── Order.js         # Mongoose schema for orders
+│   └── Order.js         # Mongoose schema for ordersg
 ├── controllers/
 │   ├── menuController.js # Handles menu CRUD operations
 │   └── orderController.js # Handles order creation
